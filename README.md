@@ -1,5 +1,9 @@
 # CogniRay
 
+Differentiable geometric memory for adaptive reasoning, from MnemoWare.
+
+---
+
 **CogniRay** is an experimental cognitive memory system built upon the principles of **Holographic Projection Memory (HPM)**.
 It is designed as a structured, differentiable, and geometrically projective memory substrate that supports active inference,
 directional recall, and adaptive semantic imprinting.
@@ -98,7 +102,7 @@ We design memory systems that learn by projecting, adapt by recalling, and scale
 
 > **MnemoWare. Shape your mind.**
 
-Project: [cogniray.online](https://cogniray.online) *(coming soon)*  
+Project: [cogniray.online](https://cogniray.online) *(pending domain confirmation)*  
 Company: [mnemoware.com](https://mnemoware.com) *(coming soon)*  
 
 Telegram group: [CogniRay](https://t.me/CogniRay)  
