@@ -102,7 +102,7 @@ We design memory systems that learn by projecting, adapt by recalling, and scale
 
 > **MnemoWare. Shape your mind.**
 
-Project: [cogniray.online](https://cogniray.online) *(pending domain confirmation)*  
+Project: [cogniray.online](https://cogniray.online) *(coming soon)*  
 Company: [mnemoware.com](https://mnemoware.com) *(coming soon)*  
 
 Telegram group: [CogniRay](https://t.me/CogniRay)  
