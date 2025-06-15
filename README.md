@@ -40,7 +40,7 @@ Licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 I
 
 You are free to read, redistribute, and adapt the documentation for non-commercial purposes, provided that:
 
-* Proper attribution is given (Konstantin Bashinsky / Sombressoul)
+* Proper attribution is given (Konstantin Bashinsky)
 * Derivative works are shared under the same license
 
 ### Code and Implementations
@@ -54,7 +54,7 @@ You may use the code for:
 * Education
 * Personal non-commercial experimentation
 
-For commercial licensing, please contact: **[sombressoul@protonmail.com](mailto:sombressoul@protonmail.com)**
+For commercial licensing, please contact: **[sombressoul@gmail.com](mailto:sombressoul@gmail.com)**
 
 ---
 
