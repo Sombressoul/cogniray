@@ -90,6 +90,22 @@ Though formulated in continuous space, HPM is implemented via voxelized tensors:
 
 ---
 
+## Project & Company
+
+CogniRay is developed by **MnemoWare**, an independent research initiative building cognitive infrastructures for machine reasoning.
+
+We design memory systems that learn by projecting, adapt by recalling, and scale with understanding.
+
+> **MnemoWare. Shape your mind.**
+
+Project: [cogniray.online](https://cogniray.online) *(coming soon)*  
+Company: [mnemoware.com](https://mnemoware.com) *(coming soon)*  
+
+Telegram group: [CogniRay](https://t.me/CogniRay)  
+Telegram channel: [MnemoWare](https://t.me/MnemoWare)  
+
+---
+
 ## Licensing
 
 ### **Documentation and Theoretical Materials**
