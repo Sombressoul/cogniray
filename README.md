@@ -1,6 +1,6 @@
 # CogniRay
 
-CogniRay is an experimental cognitive memory system built upon the principles of **Holographic Projection Memory (HPM)**.
+**CogniRay** is an experimental cognitive memory system built upon the principles of **Holographic Projection Memory (HPM)**.
 It is designed as a structured, differentiable, and geometrically projective memory substrate that supports active inference,
 directional recall, and adaptive semantic imprinting.
 
@@ -13,17 +13,76 @@ This repository contains:
 
 ---
 
-## Key Concepts
+## Key Concepts and Advantages
 
-* **Geometric Access to Memory** — Memory is accessed via projection rays, not keys or indices
-* **Differentiable Projection** — Read and write are defined by kernel-weighted integration along rays
-* **Topological Divergence** — Conflicting updates self-organize into distinct semantic clusters
-* **Inference-Time Plasticity** — Memory can adapt in real time via projection-aligned delta updates
-* **Multi-Scale Scanning** — Efficient attention to relevant memory regions through hierarchical projection
+### **Geometric Access to Memory**
+
+Memory is not accessed by keys or positions but by **directional projection rays** traversing a latent field. This enables:
+
+* Content-based access via spatial geometry
+* Localized attention along semantic trajectories
+* View-dependent retrieval, mimicking perception
+
+### **Differentiable Projection Mechanics**
+
+Read and write operations are implemented as **smooth, differentiable integrals** along rays using soft kernels. This allows:
+
+* Gradient-based learning of both memory and access patterns
+* Seamless integration with neural architectures
+* Full support for backpropagation and active error correction
+
+### **Topological Divergence**
+
+Conflicting updates do not overwrite but **diverge spatially**, forming distinct semantic regions. Benefits include:
+
+* Natural separation of contradictory memories
+* Elimination of catastrophic forgetting
+* Self-organizing semantic clustering
+
+### **Inference-Time Plasticity**
+
+Memory is not static — it can **adapt on the fly** by modifying localized regions based on projection errors. This provides:
+
+* Real-time correction of outdated or incomplete knowledge
+* On-the-fly learning during inference
+* Compatibility with lifelong and self-supervised learning
+
+### **Multi-Scale Scanning**
+
+Hierarchical, multi-resolution projection surfaces allow **focus from fine-grained detail to global context**, enabling:
+
+* Coarse-to-fine reasoning
+* Attention allocation to regions of semantic saliency
+* Efficient memory search and reconstruction
+
+### **Orientation-Aware Retrieval**
+
+Projection direction vectors act as **semantic filters**, encoding preferences for angular alignment:
+
+* Emulates biological orientation selectivity (e.g., V1 cortex)
+* Enables disentangled recall based on directional cues
+* Supports dynamic, learnable routing mechanisms
+
+### **Interpretability and Visualizability**
+
+Memory operations are explicitly geometric and spatially structured, which ensures:
+
+* Transparent debugging and visualization of memory state
+* Modular composability (e.g., stacking beams, splitting projection surfaces)
+* Explainability for cognitive systems and symbolic overlays
+
+### **Compatibility with Discrete and Continuous Models**
+
+Though formulated in continuous space, HPM is implemented via voxelized tensors:
+
+* Compatible with GPU-accelerated rasterization and grid processing
+* Supports hybrid symbolic-geometric representations
+* Bridges low-level neural fields and high-level memory primitives
 
 ---
 
-Roadmap:
+## Roadmap
+
 1. Stable research release (v0.1)
 2. Core CogniRay module for PyTorch
 3. Adaptive projection routing and multi-view memory
@@ -33,7 +92,7 @@ Roadmap:
 
 ## Licensing
 
-### Documentation and Theoretical Materials
+### **Documentation and Theoretical Materials**
 
 Licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -43,7 +102,7 @@ You are free to read, redistribute, and adapt the documentation for non-commerci
 * Proper attribution is given (Konstantin Bashinsky)
 * Derivative works are shared under the same license
 
-### Code and Implementations
+### **Code and Implementations**
 
 Licensed under the **CogniRay Non-Commercial License v1.0**
 **Commercial use is strictly prohibited** without prior written permission from the author.
