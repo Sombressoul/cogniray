@@ -60,5 +60,5 @@ For commercial licensing, please contact: **[sombressoul@protonmail.com](mailto:
 
 ## Author
 
-**Konstantin Bashinsky (a.k.a. Sombressoul)**
+**Konstantin Bashinsky (a.k.a. Sombressoul)**  
 AI researcher, memory reconstruction theorist, and occasional code-wrestler.
