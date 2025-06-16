@@ -1,3 +1,13 @@
+**IMPORTANT**  
+
+This repository is no longer subject to any updates.  
+
+The main research and development process of HPM and CogniRay is now moved to: [MnemoWare/CogniRay](https://github.com/MnemoWare/CogniRay)  
+
+This repository will remain as the original source and as a part of the history.  
+
+---
+
 # CogniRay
 
 Differentiable geometric memory for adaptive reasoning, from MnemoWare.
