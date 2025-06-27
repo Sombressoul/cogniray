@@ -1,3 +1,7 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/doc%20license-CC--BY--NC--SA--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CogniRay NCL v1.0](https://img.shields.io/badge/code%20license-CogniRay--NCL--v1.0-blue)](https://github.com/MnemoWare/CogniRay/blob/main/LICENSE_CODE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15712780.svg)](https://doi.org/10.5281/zenodo.15712780)
+
 **IMPORTANT**  
 
 This repository is no longer subject to any updates.  
